@@ -6,6 +6,6 @@
 
 Implemention from Kaggle dataset : https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-A content-based movie recommender system base from Collaborative filtering of  movie features to discover a similar attribute and recommends it to the user.
+A content-based movie recommender system base according to movie features in discover a similar attribute and recommends it to the user.
 
 link to web application : https://movierecommendation-app39.herokuapp.com/
